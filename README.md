@@ -1,4 +1,6 @@
 # quiz
+This is a quiz application developed using vue javascript frame work
+It gets questions and answers from trivia db api and renders 
 
 ## Project setup
 ```
